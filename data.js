@@ -231,6 +231,17 @@ var data = {
                 "fishing_rod"
             ]
         },
+	"Vein Mining": {
+            "levelMax": "1",
+            "weight": "2",
+            "incompatible": [],
+            "items": [
+                "pickaxe",
+                "shovel",
+                "axe",
+                "hoe"
+            ]
+        },
         "Mending": {
             "levelMax": "1",
             "weight": "2",
